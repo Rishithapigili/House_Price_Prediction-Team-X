@@ -112,7 +112,7 @@ Accesses personal predictions
 
 How to Run the Project
 1.Clone Repository
-git clone https://github.com/yourusername/House_Price_Prediction.git
+git clone https://github.com/Rishithapigili/House_Price_Prediction-TEAM-X.git
 2. Navigate to Folder
 cd House_Price_Prediction
 3. Install Dependencies
