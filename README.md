@@ -1,5 +1,4 @@
-# House_Price_Prediction-Team-X
-Predicting House prices using Linear Reggresion.
+
 🏠 House Price Prediction 
 
 A premium, full-stack Machine Learning web application designed to predict house prices accurately using advanced regression models and real estate data analysis.
