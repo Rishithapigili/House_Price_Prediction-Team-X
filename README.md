@@ -1,9 +1,8 @@
-
-🏠 House Price Prediction 
+ House Price Prediction 
 
 A premium, full-stack Machine Learning web application designed to predict house prices accurately using advanced regression models and real estate data analysis.
 
-🔑 Key Features
+Key Features
 
 • Upload housing dataset (CSV)
 • Data preprocessing & cleaning
@@ -12,7 +11,7 @@ A premium, full-stack Machine Learning web application designed to predict house
 • Display prediction results instantly
 • Visualize data using charts & graphs
 
-📌 Project Overview
+Project Overview
 
 The House Price Prediction API is designed to:
 
@@ -28,7 +27,7 @@ Generate data visualizations (bar chart, distribution plot, etc.)
 
 Provide a user-friendly web interface
 
-🛠️ Tech Stack
+Tech Stack
 
 Backend: Python 3.10+, FastAPI / Flask
 Machine Learning: Scikit-learn
@@ -39,14 +38,14 @@ Authentication: JWT (if implemented)
 Deployment: Docker / Vercel / Render
 Server: Uvicorn / Gunicorn
 
-🧠 Machine Learning Models Used
+Machine Learning Models Used
 
 • Linear Regression
 • Random Forest Regressor
 • Decision Tree Regressor
 • Gradient Boosting (Optional)
 
-📊 Input Features
+Input Features
 
 Location
 
@@ -62,7 +61,7 @@ Year Built
 
 Parking Availability
 
-🔁 Application Workflow
+Application Workflow
 
 Admin/User uploads housing dataset
 
@@ -76,7 +75,7 @@ System predicts house price
 
 Visualization charts are generated
 
-📈 Features Implemented
+Features Implemented
 
 Data preprocessing & feature engineering
 
@@ -94,17 +93,16 @@ Secure backend architecture
 
 Role-based system (if implemented)
 
-🔐 Authentication & Roles (If Applicable)
+Authentication & Roles (If Applicable)
 
-👨‍💼 Admin
+Admin
 
 Uploads dataset
 
 Trains model
 
 Accesses analytics dashboard
-
-👤 User
+User
 
 Enters house details
 
@@ -112,20 +110,20 @@ Views predicted price
 
 Accesses personal predictions
 
-🚀 How to Run the Project
-1️⃣ Clone Repository
+How to Run the Project
+1.Clone Repository
 git clone https://github.com/yourusername/House_Price_Prediction.git
-2️⃣ Navigate to Folder
+2. Navigate to Folder
 cd House_Price_Prediction
-3️⃣ Install Dependencies
+3. Install Dependencies
 pip install -r requirements.txt
-4️⃣ Run Application
+4️. Run Application
 uvicorn app:app --reload
 
 or
 
 python app.py
-🔮 Future Improvements
+Future Improvements
 
 Deploy on cloud platform
 
@@ -137,7 +135,7 @@ Add real-time market data integration
 
 Add map-based location analysis
 
-👨‍💻 TEAM X
+    TEAM X
 
 P RISHITHA – Fullstack Developer
 
